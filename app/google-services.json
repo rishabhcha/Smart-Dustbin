@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "339835816521",
+    "firebase_url": "https://ieee-arcshack.firebaseio.com",
+    "project_id": "ieee-arcshack",
+    "storage_bucket": "ieee-arcshack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339835816521:android:75259ed457da70f3",
+        "android_client_info": {
+          "package_name": "com.example.rishabhcha.vinnovate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339835816521-jg78caoljtdtc3c49igjjk0vsontccio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0a___z39618cTQJ6E0HdbO3P2qhM3Iq4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
